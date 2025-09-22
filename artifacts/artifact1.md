@@ -10,12 +10,10 @@ The artifact is my **CS360 Weight Tracker Android application**. The original ve
 For the enhancement, I focused on demonstrating software design and engineering principles. I expanded functionality to include robust input validation, persistent storage, and a visual progress chart, transforming the app into a more usable and reliable tool.
 
 ## Original Code
-- Path in this repo: [`code/original/WeightTracker/`](../code/original/WeightTracker/)
-- (Optional) External repo link: *Not applicable*
+- Path in this repo: [`code/original/Koda_Ermini_WeightTracker_ProjectThree.zip`](../code/original/Koda_Ermini_WeightTracker_ProjectThree.zip)
 
 ## Enhanced Code
-- Path in this repo: [`code/enhanced/WeightTracker/`](../code/enhanced/WeightTracker/)
-- (Optional) External repo link: *Not applicable*
+- Path in this repo: [`code/enhanced/Koda_Ermini_WeightTracker_ProjectThree_ENHANCED.zip`](../code/enhanced/Koda_Ermini_WeightTracker_ProjectThree_ENHANCED.zip)
 
 ## Enhancement Narrative
 I selected this artifact because mobile apps are an effective way to demonstrate **UI/UX design**, **input validation**, **state persistence**, and **integration with third-party libraries**. The enhancements showcase skills in defensive programming (validations and error handling), persistent storage, and data visualization.

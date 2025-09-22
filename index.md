@@ -4,6 +4,8 @@ title: "Koda Ermini — CS-499 ePortfolio"
 
 # Koda Ermini — CS-499 ePortfolio
 
+I am a Computer Science student at Southern New Hampshire University with a strong foundation in **software development, algorithms, and databases**. My academic work has emphasized building secure, maintainable applications and applying innovative techniques to solve real-world problems. This portfolio highlights my growth as a developer, my ability to enhance and refine projects, and my readiness to contribute to the technology field as a professional.
+
 Welcome to my Computer Science Capstone ePortfolio. This site presents my enhanced artifacts in **Software Engineering & Design**, **Algorithms & Data Structures**, and **Databases**, along with reflections and a professional self-assessment.
 
 ## Professional Self-Assessment
@@ -51,5 +53,6 @@ The Computer Science program has given me the technical foundation, problem-solv
 - [Code Review Video](code-review.md)
 
 ## Contact
-- LinkedIn: <<<ADD LINKEDIN URL>>>
-- GitHub: https://github.com/Kermini
+- LinkedIn: [Dakotah Ermini](https://www.linkedin.com/in/dakotah-ermini-2a81ba231/)
+- GitHub: [Kermini](https://github.com/Kermini)
+

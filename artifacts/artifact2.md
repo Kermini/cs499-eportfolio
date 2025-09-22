@@ -27,8 +27,9 @@ Enhancements performed:
 While enhancing this artifact, I learned to balance performance improvements with maintainability. Some optimizations made the code faster but harder to read, so I adjusted to maintain clarity without sacrificing efficiency. I also incorporated stronger input checks, which improved the program’s reliability. These enhancements show my ability to iterate on algorithmic solutions while managing trade-offs in complexity and usability.
 
 ## Evidence & Screenshots
-Include before/after screenshots or short clips to demonstrate improvements.  
-![Screenshot](../media/screenshots/cs300-enhancement.png)
+Below is an example benchmark run of the enhanced solution showing measurable efficiency gains between linear search and binary search:
+
+![Benchmark Run](../media/videos/Artifact2_Benchmark_Run.png)
 
 ## Course Outcomes Addressed
 - **Design and evaluate computing solutions using algorithmic principles** by analyzing and optimizing searching and sorting logic.  
